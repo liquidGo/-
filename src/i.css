@@ -1,0 +1,12 @@
+img {
+    transform: translate(700px, 0px);
+}
+
+img {
+    transition: transform 1s ease-in 0s;
+
+}
+
+img:hover {
+    transform: translate(10px,0px) 
+}
